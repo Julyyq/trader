@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "fixjs": "^0.4.2"
+    "fixjs": "^0.4.2",
+    "koa": "^0.21.0"
   }
 }

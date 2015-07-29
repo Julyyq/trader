@@ -1,0 +1,2 @@
+# trader
+An auto trader 
